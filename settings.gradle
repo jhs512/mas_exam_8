@@ -1,0 +1,4 @@
+rootProject.name = 'msa_exam_8'
+
+include 'module_common_util', 'module_app_member'
+
